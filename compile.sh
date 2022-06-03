@@ -1,0 +1,1 @@
+deno compile --allow-net ./src/send-post-request.ts
